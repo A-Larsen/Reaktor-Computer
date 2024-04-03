@@ -1,1 +1,2 @@
-== Reactor Computer
+== Reaktor Computer
+Parts of a simple computer made in native instruments Reaktor
